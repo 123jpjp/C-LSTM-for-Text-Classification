@@ -1,0 +1,5 @@
+model因为太大了无法上传，所以只上传结果和summaries。
+
+runs文档中按照时间戳的顺序，下面五个文件分别是关于
+cnn、lstm、blstm、clstm、改进的clstm
+五个模型的运行结果和summaries。
